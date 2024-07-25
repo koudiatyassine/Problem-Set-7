@@ -1,0 +1,7 @@
+1. Understanding an Individuals Music Vibe;
+By analyzing the energy, emotional tone and danceability levels of the 100 songs listened to by a person in 2018 we can paint a picture of their audio vibe. This approach helps capture the mood and enthusiasm found in their preferred music selection.
+2. Theory and Enhancement;
+The way we currently calculate the atmosphere may not truly reflect the listeners experience as it focuses on the top 100 songs without considering their diversity or the situations in which they were heard. A effective strategy could involve;
+- Analyzing the distribution of the listener's music preferences over different genres.
+- Considering the time of day or activity (e.g., workout, relaxation) during which the songs were played.
+- Incorporating the listener's mood or context from user feedback or social media activity.
